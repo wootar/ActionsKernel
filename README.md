@@ -1,2 +1,2 @@
 # ActionsKernel
-Build linux kernel
+Build linux kernel on Github Actions
